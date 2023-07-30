@@ -71,3 +71,18 @@ We welcome contributions from the community! To contribute to this project, foll
 4. Push the changes to your branch: git push origin feature/your-feature.
 5. Open a pull request on this repository with a detailed description of your changes.
 
+## License
+
+## License
+
+⚠️ This project is **NOT FREE** and is **NOT OPEN SOURCE**. All rights to the source code, design, and content are reserved by the project owner.
+
+**Usage of this app is strictly prohibited without explicit written permission from the project owner.**
+
+If you are interested in using, modifying, or distributing this project, please contact the project owner at muhammadshiraz996@gmail.com to inquire about licensing and usage terms.
+
+This README.md file and its content are for illustration purposes only and should not be used or distributed without permission.
+
+---
+
+Thank you for checking out our React Blockchain Oxhain App project! For any inquiries or further information, feel free to [contact us](mailto:muhammadshiraz996@gmail.com).
