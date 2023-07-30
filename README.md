@@ -47,8 +47,6 @@ npm start
 
 The app will now be accessible at http://localhost:3000.
 
-## Technologies Used
-
 ## Frontend:
 
 1. React: A JavaScript library for building user interfaces.
