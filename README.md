@@ -29,14 +29,11 @@ The React Blockchain Oxhain App provides a hands-on example of how blockchain wo
 
 To run this project locally, follow these steps:
 
-1. Clone this repository to your local machine using `git clone https://github.com/muhammadshiraz/oxhain-frontend.git`.
+1. Clone this repository to your local machine using `git clone https://github.com/muhammadshiraz/react-oxhain-app.git`.
 2. Navigate to the project directory using `cd react-blockchain-oxhain-app`.
 3. Install the necessary dependencies for both the frontend and backend:
 
 ```bash
-cd frontend
-npm install
-cd ../backend
 npm install
 ```
 
