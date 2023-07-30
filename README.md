@@ -73,8 +73,6 @@ We welcome contributions from the community! To contribute to this project, foll
 
 ## License
 
-## License
-
 ⚠️ This project is **NOT FREE** and is **NOT OPEN SOURCE**. All rights to the source code, design, and content are reserved by the project owner.
 
 **Usage of this app is strictly prohibited without explicit written permission from the project owner.**
