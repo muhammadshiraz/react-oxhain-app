@@ -38,8 +38,39 @@ cd frontend
 npm install
 cd ../backend
 npm install
+```
+
+## Usage
 
 In a separate terminal, start the frontend development server:
 
-cd frontend
+```bash
 npm start
+```
+
+The app will now be accessible at http://localhost:3000.
+
+## Technologies Used
+
+## Frontend:
+
+1. React: A JavaScript library for building user interfaces.
+2. Axios: For making HTTP requests to the backend server.
+3. Bootstrap: For basic styling and responsive design.
+
+## Backend:
+
+1. Node.js: A JavaScript runtime for server-side development.
+2. Express: A web application framework for Node.js.
+3. CryptoJS: For cryptographic functionality like hashing.
+
+## Contributing
+
+We welcome contributions from the community! To contribute to this project, follow these steps:
+
+1. Fork this repository to your GitHub account.
+2. Create a new branch with a descriptive name: git checkout -b feature/your-feature.
+3. Make your changes and commit them: git commit -m "Add your message here".
+4. Push the changes to your branch: git push origin feature/your-feature.
+5. Open a pull request on this repository with a detailed description of your changes.
+
