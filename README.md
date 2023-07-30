@@ -59,16 +59,6 @@ The app will now be accessible at http://localhost:3000.
 2. Express: A web application framework for Node.js.
 3. CryptoJS: For cryptographic functionality like hashing.
 
-## Contributing
-
-We welcome contributions from the community! To contribute to this project, follow these steps:
-
-1. Fork this repository to your GitHub account.
-2. Create a new branch with a descriptive name: git checkout -b feature/your-feature.
-3. Make your changes and commit them: git commit -m "Add your message here".
-4. Push the changes to your branch: git push origin feature/your-feature.
-5. Open a pull request on this repository with a detailed description of your changes.
-
 ## License
 
 ⚠️ This project is **NOT FREE** and is **NOT OPEN SOURCE**. All rights to the source code, design, and content are reserved by the project owner.
