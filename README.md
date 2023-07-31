@@ -16,13 +16,13 @@ Welcome to the React Blockchain Oxhain App! This project demonstrates the basics
 
 ## About
 
-The React Blockchain Oxhain App provides a hands-on example of how blockchain works by creating a basic blockchain network with blocks and transactions. It showcases the fundamental concepts of blockchain, such as proof-of-work, mining, and decentralization.
+The React Blockchain Oxhain App provides is the first CEX-DEX hybrid crypto derivatives exchange. Founded by professionals from traditional financial institutions, tech companies, and top crypto exchanges; Oxhain makes crypto accessible to everyone in public, not only traders and quants. Designed by ordinary people with extraordinary values.
 
 ## Features
 
 - **Block Creation**: New blocks can be mined and added to the blockchain.
 - **Transaction Handling**: Users can create transactions to add data to a block.
-- **Proof-of-Work**: Mining process involves finding the right nonce for block validation.
+- **Proof-of-Work**: The mining process involves finding the right nonce for block validation.
 - **Decentralization**: The blockchain is distributed across nodes for added security.
 
 ## Installation
