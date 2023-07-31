@@ -20,9 +20,10 @@ The React Blockchain Oxhain App provides is the first CEX-DEX hybrid crypto deri
 
 ## Features
 
-- **Block Creation**: New blocks can be mined and added to the blockchain.
-- **Transaction Handling**: Users can create transactions to add data to a block.
-- **Proof-of-Work**: The mining process involves finding the right nonce for block validation.
+- **Cryptocurrency Trading**: Oxhain allows users to trade a wide range of cryptocurrencies, including popular one like Bitcoin (BTC), Ethereum (ETH), and many altcoins. Users can buy, sell, and exchange digital assets on the platform.
+- **Spot Trading and Futures Trading**: Oxhain supports both spot trading (regular trading) and futures trading, giving users different options for their trading strategies.
+- **Margin Trading**: Oxhain offers margin trading, allowing users to trade with borrowed funds, increasing their potential profit (and risk).
+- **Oxhain Academy**: Oxhain provides educational resources through its Oxhain Academy, offering articles and videos to help users understand blockchain and cryptocurrency concepts.
 - **Decentralization**: The blockchain is distributed across nodes for added security.
 
 ## Installation
