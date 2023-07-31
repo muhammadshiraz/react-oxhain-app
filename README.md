@@ -2,7 +2,7 @@
 
 <p align="center">Welcome to the React Blockchain Oxhain App! This project demonstrates the basics of blockchain technology using a simple web application built with React and Node.js.</p>
 
-![Blockchain](screenshot.jpg)
+<p align='center'><img src="screenshot.jpg" alt="React Blockchain Oxhain App" align='center'/></p>
 
 ## Table of Contents
 
