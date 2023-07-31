@@ -1,6 +1,6 @@
 <h1 align='center'>React Blockchain Oxhain App</h1>
 
-<p align="center">Welcome to the React Blockchain Oxhain App! This project demonstrates the basics of blockchain technology using a simple web application built with React and Node.js.</p>
+<p align="center">Oxhain App exchanges the future by technology and experience for everyone who believes cryptocurrencies are the future.</p>
 
 <p align='center'><img src="screenshot.jpg" alt="React Blockchain Oxhain App" align='center'/></p>
 
@@ -16,7 +16,7 @@
 
 ## About
 
-The React Blockchain Oxhain App provides is the first CEX-DEX hybrid crypto derivatives exchange. Founded by professionals from traditional financial institutions, tech companies, and top crypto exchanges; Oxhain makes crypto accessible to everyone in public, not only traders and quants. Designed by ordinary people with extraordinary values.
+The React Blockchain Oxhain App provides the first CEX-DEX hybrid crypto derivatives exchange. Founded by professionals from traditional financial institutions, tech companies, and top crypto exchanges; Oxhain makes crypto accessible to everyone in public, not only traders and quants. Designed by ordinary people with extraordinary values.
 
 ## Features
 
