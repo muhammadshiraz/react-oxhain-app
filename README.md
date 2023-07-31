@@ -1,6 +1,6 @@
 <h1 align='center'>React Blockchain Oxhain App</h1>
 
-<p align="center">Oxhain App exchanges the future by technology and experience for everyone who believes cryptocurrencies are the future.</p>
+<p align="center">Oxhain exchanges the future by technology and experience for everyone who believes cryptocurrencies are the future.</p>
 
 <p align='center'><img src="screenshot.jpg" alt="React Blockchain Oxhain App" align='center'/></p>
 
