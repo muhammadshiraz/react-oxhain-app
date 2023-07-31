@@ -11,7 +11,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## About
@@ -48,13 +47,14 @@ npm start
 
 The app will now be accessible at http://localhost:3000.
 
-## Frontend:
+## Technologies Used
+### Frontend:
 
 1. React: A JavaScript library for building user interfaces.
 2. Axios: For making HTTP requests to the backend server.
 3. Bootstrap: For basic styling and responsive design.
 
-## Backend:
+### Backend:
 
 1. Node.js: A JavaScript runtime for server-side development.
 2. Express: A web application framework for Node.js.
